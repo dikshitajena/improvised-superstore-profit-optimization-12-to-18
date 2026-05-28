@@ -60,7 +60,7 @@ A whole Data Pipeline created by importing cleaned dataset from Excel to MySQL. 
 Since a plan had to be formulated in order to optimize profit margins. So, two dashboards were created as per the requirements. They are as follows:
 
 - [Current Slide](https://github.com/dikshitajena/improvised-superstore-profit-optimization-12-to-18/blob/main/current.png) is the descriptive analytics of the current situation.
-- [Future Slide]() is the projected business condition after 6 months, showcasing key impacts of each adopted strategy.
+- [Future Slide](https://github.com/dikshitajena/improvised-superstore-profit-optimization-12-to-18/blob/main/future.png) is the projected business condition after 6 months, showcasing key impacts of each adopted strategy.
 
 # Key Insights
 
