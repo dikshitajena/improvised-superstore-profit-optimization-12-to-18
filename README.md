@@ -53,7 +53,7 @@ Excel → MySQL → Power BI
 - SQL - Data analysis and Querying
 - Power BI - Interactive dashboard creation
 
-A whole Data Pipeline created by importing cleaned dataset from Excel to MySQL. Then analysis performed in MySQL whose script is here: [superstore_analysis.sql](). Views were created too in MySQL to ease visualizations faster in Power BI. Data Imported to Power BI from MySQL were used to create dashboards, current slide and future slide.
+A whole Data Pipeline created by importing cleaned dataset from Excel to MySQL. Then analysis performed in MySQL whose script is here: [superstore_analysis.sql](https://github.com/dikshitajena/improvised-superstore-profit-optimization-12-to-18/blob/main/superstore_analysis.sql). Views were created too in MySQL to ease visualizations faster in Power BI. Data Imported to Power BI from MySQL were used to create dashboards, current slide and future slide.
 
 ## Power BI Dashboard
 
